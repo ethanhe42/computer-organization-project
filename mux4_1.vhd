@@ -1,5 +1,5 @@
-library ieee;
-USE ieee.std_logic_1164.all;
+library IEEE;
+USE IEEE.STD_LOGIC_1164.all;
 USE IEEE.STD_LOGIC_ARITH.ALL;
 USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 entity Mux4_1 is 
